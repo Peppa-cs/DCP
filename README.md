@@ -1,6 +1,7 @@
 # DCP
 code and results for &lt;&lt;Discrimination-aware Channel Pruning for Deep Neural Networks>>
 
+Author Code: https://github.com/SCUT-AILab/DCP
 
 Metric:  Reconstruction error
 
